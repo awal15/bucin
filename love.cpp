@@ -78,7 +78,7 @@ int main(int argc, char const *argv[])
           else if(i==19)if((j>=27)&&(j<=35))cout<<"*";else cout<<" ";
           else if(i==20)if((j>=29)&&(j<=33))cout<<"*";else cout<<" ";
           else if(i==21)if((j>=30)&&(j<=32))cout<<"*";else cout<<" ";
-          else if(i==22)if(j==31) cout<<"*"; else cout<<" ";
+          else if(i==22)if(j==31) cout<<"*";else cout<<" ";
           cout <<" ";
         }
         cout << "\n";
